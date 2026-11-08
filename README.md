@@ -44,3 +44,7 @@ Only genuine Tranquilitas massage images are used to depict massage. The destina
 /journal/hotel-and-villa-massage-guide/
 /journal/couples-wellness-planning-guide/
 /journal/private-massage-guest-checklist/
+
+## Independent Cloudflare Pages deployment
+
+Cloudflare Pages project: `nyc` (`https://nyc-3ci.pages.dev/`). The `main` branch automatically deploys to this website's own Pages project. The public domain will be transferred after independent deployment and DNS verification; the original shared Grenada Pages project remains available until migration completes.
